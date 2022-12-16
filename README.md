@@ -5,9 +5,8 @@
 ## Build with
 - React
 
-[Click here for a demo]()
 
 ## Developed by 
 👩🏻‍💻 **Sindhu inti**
 
-### Give a ⭐ 
+
